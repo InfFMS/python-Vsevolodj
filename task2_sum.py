@@ -3,6 +3,6 @@
 # Пример:
 # Ввод: 3, 5
 # Вывод: Сумма: 8
-a,b = map(int(input()))
+a = int(input())
 b = int(input())
 print(a+b)
