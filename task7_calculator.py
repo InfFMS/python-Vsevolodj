@@ -3,5 +3,16 @@
 # Пример:
 # Ввод: Первое число: 10, Второе число: 2, Операция: *
 # Вывод: Результат: 20
-print("Первое число::", int(input("Второе число::"))+int(input("Шаг:"))*(int(input("n:"))-1)
-      
+# print("Первое число:", int(input("Второе число::"))+int(input("Шаг:"))*(int(input("n:"))-1)
+
+value1 = int(input("Первое число:"))
+value2 = int(input("Второе число:"))
+oper = str(input("Операция:"))
+if oper == "*":
+    print("Результат:", value1*value2)
+elif oper == "/":
+        print("Результат:", value1 / value2)
+elif oper == "+":
+    print("Результат:", value1+value2)
+elif oper == "-":
+    print("Результат:", value1-value2)
