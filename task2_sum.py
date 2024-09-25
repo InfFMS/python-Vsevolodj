@@ -5,4 +5,4 @@
 # Вывод: Сумма: 8
 print("Введите два числа:")
 a, b = map(int, input().split())
-print("Сумма:",a+b)
+print("Сумма:",a+b) 
