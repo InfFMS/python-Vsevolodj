@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb4aa633-72a8-4d2f-bdd6-9d2117c711b8" name="Default Changelist" comment="Сделал треью задачу!">
-      <change beforePath="$PROJECT_DIR$/task6_arithmetic_progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/task6_arithmetic_progression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task8_square_cube.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8_square_cube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
